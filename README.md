@@ -1,11 +1,13 @@
 # Hi, I'm Mohammad Mahdi 👋
 
-## ❌ Where I'm Active
+## ❌ Not Really Here
 
-### Most of my real work isn't here on GitHub.
+### ⚠️ While you're reading this on GitHub, this isn't my real playground.
 
-- ### 🧪 **Primary GitLab**: [gitlab.com/mahdium](https://gitlab.com/mahdium)
-- ### 🛠️ **My Own Gitea**: [git.mahdium.ir/mahdium](https://git.mahdium.ir/mahdium)
+### My main and original development happens elsewhere — where I actually build things, break things, and sometimes fix them:
+
+- ### 🧪 **GitLab (main public hub)**: [gitlab.com/mahdium](https://gitlab.com/mahdium)
+- ### 🛠️ **Self-hosted Gitea (for personal + open source projects)**: [git.mahdium.ir/mahdium](https://git.mahdium.ir/mahdium)
 
 ---
 
