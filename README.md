@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Mohammad Mahdi 👋
 
-<!--
-**mmahdium/mmahdium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ❌ Where I'm Active
 
-Here are some ideas to get you started:
+### Most of my real work isn't here on GitHub.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ### 🧪 **Primary GitLab**: [gitlab.com/mahdium](https://gitlab.com/mahdium)
+- ### 🛠️ **My Own Gitea**: [git.mahdium.ir/mahdium](https://git.mahdium.ir/mahdium)
+
+---
+
+## 🌐 Projects & Services
+
+- #### 🧭 **My Website**: [mahdium.ir/en](https://mahdium.ir/en)
+- #### 🧰 **My Public Services**: [services.mahdium.ir/en](https://services.mahdium.ir/en)
+
+I run a few open source and privacy-conscious services. Feel free to explore.
